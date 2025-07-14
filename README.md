@@ -11,6 +11,3 @@
 
 ## 🔒 Private Audits
 - Coming Soon
-
-## 💪 Solo Practice Audits
-- Coming Soon
