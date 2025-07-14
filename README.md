@@ -7,6 +7,7 @@
 ## 🏆 Competitive Audits
 - [Snowman Audit CodeHawks](./competitive-audits/snowman-audit-codehawks/)
 - [Orderbook Audit CodeHawks](./competitive-audits/orderbook-audit-codehawks/)
+- [Panoptic Audit Code4Arena](./competitive-audits/panoptic-audit-code4arena)
 
 ## 🔒 Private Audits
 - Coming Soon
