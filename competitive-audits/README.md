@@ -6,9 +6,9 @@ This section contains my submissions and results from various audit contests and
 
 | Contest | Platform | Status | Submitted | Accepted | Report |
 |---------|----------|--------|-----------|----------|---------|
-| [Snowman](./snowman/) | [Platform] | Complete | 3 findings | 2 High, 1 Low | [Report](./snowman-audit-codehawks/snowman_audit_report.pdf) |
-| [OrderBook](./orderbook/) | [Platform] | Judging | 5 High | TBD | [Submissions](./orderbook-audit-codehawks/findings.md) |
-| [Panoptic](./panoptic-audit-code4arena) | [Platform] | Judging | 2 High | TBD | [Submissions](./panoptic-audit-code4arena/findings.md) |
+| [Snowman](./snowman/) | [CodeHawks] | Complete | 15 findings | 2 High, 1 Low | [Report](./snowman-audit-codehawks/snowman_audit_report.pdf) |
+| [OrderBook](./orderbook/) | [CodeHawks] | Judging | 5 High | TBD | [Submissions](./orderbook-audit-codehawks/findings.md) |
+| [Panoptic](./panoptic-audit-code4arena) | [Code4Arena] | Judging | 2 High | TBD | [Submissions](./panoptic-audit-code4arena/findings.md) |
 
 ## Statistics
 
