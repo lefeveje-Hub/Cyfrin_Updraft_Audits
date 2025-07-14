@@ -1,18 +1,14 @@
-# Cyfrin_Updraft_Audits
+# Smart Contract Audits Portfolio
 
-Audits from the course
+## 📚 Cyfrin Course Audits
+- [Password Audit](./cyfrin-course-audits/password-audit/)
+- [Puppy Raffle](./cyfrin-course-audits/puppy-raffle/)
 
-## Completed Audits
+## 🏆 Competitive Audits
+- Coming Soon
 
-### 1. Password Audit
-- **Report**: [Password Audit Report](./password-audit-report.pdf)
-- **Status**: Complete
-- **Findings**: [Brief summary or link to detailed findings]
+## 🔒 Private Audits
+- Coming Soon
 
-### 2. Puppy Raffle
-- **Report**: [Puppy Raffle Audit Report](./puppy-raffle-audit-report.pdf) *(coming soon)*
-- **Status**: In Progress
-- **Findings**: TBD
-
-## About
-This repository contains security audit reports completed as part of the Cyfrin Updraft security course.
+## 💪 Solo Practice Audits
+- Coming Soon
