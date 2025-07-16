@@ -33,5 +33,5 @@ The OrderBook contract is a peer-to-peer trading system designed for ERC20 token
 
 ## Links
 
-- [Repository](https://github.com/code-423n4/orderbook-audit-codehawks)
+- [Repository](https://github.com/CodeHawks-Contests/2025-07-orderbook)
 ```
