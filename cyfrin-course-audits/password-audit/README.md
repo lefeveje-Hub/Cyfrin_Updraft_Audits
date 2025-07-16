@@ -61,6 +61,4 @@ This audit represents my first step in the Cyfrin Updraft Smart Contract Auditin
 
 **Next Steps:** Moving on to more advanced auditing techniques and complex DeFi protocols.
 
----
-
-*Beginning of my journey toward becoming a Smart Contract Security Auditor 🚀*
+ 🚀
