@@ -1,4 +1,4 @@
-# Panoptic HypoVault Audit
+# 📚 Panoptic HypoVault Audit
 
 **Platform:** Code4Arena  
 **Duration:** June 27 - July 7, 2025  
